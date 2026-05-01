@@ -131,11 +131,6 @@ Visit `http://localhost:5173` to open the app in your browser.
 
 ---
 
-## 🙌 Special Thanks
-
-A huge shoutout and heartfelt thanks to **[Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)** for his amazing **Namaste React** course, which was my primary source for learning and mastering React.js fundamentals. 🙏
-
----
 
 ## 👨‍💻 About Me
 
